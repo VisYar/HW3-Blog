@@ -18,7 +18,7 @@
 ![2023-04-06_08-45-03](https://user-images.githubusercontent.com/105548819/230678387-141366dc-f225-4d9c-af6b-c874464c60b7.png)
 ![2023-04-06_08-46-35](https://user-images.githubusercontent.com/105548819/230678397-5fd7ab19-f8cd-4223-a2fa-e8d6bc7f993a.png)
 
-**Записанный сценарий в формате jmx: [ссылка](https://github.com/VisYar/HW3-Blog/blob/master/BlazeMeter_04-11-22.jmx)**
+**Записанный сценарий JMeter в формате jmx: [ссылка](https://github.com/VisYar/HW3-Blog/blob/master/BlazeMeter_04-11-22.jmx)**
 
 **Cкриншоты сценария в JMeter**
 ![2023-04-06_12-30-20](https://user-images.githubusercontent.com/105548819/230678966-f504be58-4da4-4e17-a105-2fb57aaaac14.png)
