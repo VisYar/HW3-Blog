@@ -7,7 +7,7 @@
 4. Добавить комментарий, заполнив поле `Comment`.
 
 # BlazeMeter
-**LOAD TEST REPORT в системе BlazeMeter [ссылка](https://a.blazemeter.com/app/executive-summary/index.html?master_id=67287076&selectedTimeMeasure=milliseconds#/)**
+**LOAD TEST REPORT в системе BlazeMeter: [ссылка](https://a.blazemeter.com/app/executive-summary/index.html?master_id=67287076&selectedTimeMeasure=milliseconds#/)**
 
 **Cкриншоты нагрузки в системе BlazeMeter**
 ![2023-04-06_08-40-06](https://user-images.githubusercontent.com/105548819/230678119-422e3773-979e-453c-a300-0309c827b5a1.png)
@@ -18,7 +18,8 @@
 ![2023-04-06_08-45-03](https://user-images.githubusercontent.com/105548819/230678387-141366dc-f225-4d9c-af6b-c874464c60b7.png)
 ![2023-04-06_08-46-35](https://user-images.githubusercontent.com/105548819/230678397-5fd7ab19-f8cd-4223-a2fa-e8d6bc7f993a.png)
 
-**Записанный сценарий в формате jmx:**[ссылка]()
+**Записанный сценарий в формате jmx: [ссылка](https://github.com/VisYar/HW3-Blog/blob/master/BlazeMeter_04-11-22.jmx)**
+
 **Cкриншоты сценария в JMeter**
 ![2023-04-06_12-30-20](https://user-images.githubusercontent.com/105548819/230678966-f504be58-4da4-4e17-a105-2fb57aaaac14.png)
 ![2023-04-06_13-40-46](https://user-images.githubusercontent.com/105548819/230678970-5fbf9fa3-ac28-4fc6-a7fa-74d44103719f.png)
