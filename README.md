@@ -18,6 +18,16 @@
 ![2023-04-06_08-45-03](https://user-images.githubusercontent.com/105548819/230678387-141366dc-f225-4d9c-af6b-c874464c60b7.png)
 ![2023-04-06_08-46-35](https://user-images.githubusercontent.com/105548819/230678397-5fd7ab19-f8cd-4223-a2fa-e8d6bc7f993a.png)
 
+**Записанный сценарий в формате jmx:**[ссылка]()
+**Cкриншоты сценария в JMeter**
+![2023-04-06_12-30-20](https://user-images.githubusercontent.com/105548819/230678966-f504be58-4da4-4e17-a105-2fb57aaaac14.png)
+![2023-04-06_13-40-46](https://user-images.githubusercontent.com/105548819/230678970-5fbf9fa3-ac28-4fc6-a7fa-74d44103719f.png)
+![2023-04-06_13-41-02](https://user-images.githubusercontent.com/105548819/230678972-39aeed3a-5e56-4698-889c-2297e1bd460b.png)
+![2023-04-06_13-41-28](https://user-images.githubusercontent.com/105548819/230678974-8757c010-0943-480b-aca8-600ee6afaa43.png)
+![2023-04-06_13-45-37](https://user-images.githubusercontent.com/105548819/230678977-3822bf4c-0183-4237-86e4-3d3ced54fe24.png)
+![2023-04-06_13-45-51](https://user-images.githubusercontent.com/105548819/230678980-db14536f-4203-45c2-8a16-f1c2ac396894.png)
+![2023-04-06_13-46-03](https://user-images.githubusercontent.com/105548819/230678982-0e1c7392-c97f-4754-be52-1594042d68cf.png)
+
 
 
 
